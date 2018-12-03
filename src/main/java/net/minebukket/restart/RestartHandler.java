@@ -14,13 +14,6 @@ import java.time.temporal.ChronoUnit;
 import java.time.temporal.TemporalUnit;
 import java.util.Date;
 
-/*******************************************************************************
- *  Copyright (C) SparkNetwork - All Rights Reserved
- *   * Unauthorized copying of this file, via any medium is strictly prohibited
- *   * Proprietary and confidential
- *   * Written by Gilberto Garcia <gilbertodamian14@gmail.com>, May 2018
- *
- ******************************************************************************/
 public class RestartHandler {
 
     private RestartPlugin plugin;
