@@ -1,0 +1,4 @@
+name: Restart
+version: @version@
+main: net.minebukket.restart.RestartPlugin
+depend: [Base]

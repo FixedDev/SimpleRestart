@@ -1,0 +1,13 @@
+lobbies:
+- lobby
+
+restart-time: 6h
+
+broadcast-time:
+- 1h
+- 30m
+- 15m
+- 10m
+- 1m
+- 30s
+
